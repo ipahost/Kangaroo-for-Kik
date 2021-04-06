@@ -10,7 +10,7 @@ A powerful tweak for Kik!
    
     | Application | Version | Kangaroo |
     | --- | --- | --- |
-    | [Kik](https://mega.nz/file/NJJBgCAQ#X4kOocbND3X9Dvs5sgkct3f2udmP21P3KFBTlz70PuM) | 15.25.1 | 1.3 |
+    | [Kik](https://mega.nz/file/FZJRzCiC#ruHbL1T1AjSme4hktMyy5O6tSsxiPWGM8wv0DYp6UDI) | 15.28.0 | 1.4 |
 
         
 &nbsp;
